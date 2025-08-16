@@ -3,6 +3,6 @@ pymupdf4llm==0.0.27
 markdownify==1.1.0
 flask==3.1.1
 gunicorn==23.0.0
-google-cloud-storage==3.2.0
+google-cloud-storage==3.3.0
 pytesseract==0.3.13
 Pillow==11.3.0
