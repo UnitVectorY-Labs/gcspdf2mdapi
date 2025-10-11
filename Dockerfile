@@ -1,5 +1,5 @@
 # Use the official Python image
-FROM python:3.13
+FROM python:3.14
 
 # Install Tesseract-OCR (required for pytesseract)
 RUN apt-get update && apt-get install -y tesseract-ocr
