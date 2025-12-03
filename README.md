@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![Concept](https://img.shields.io/badge/Status-Concept-white)](https://guide.unitvectorylabs.com/bestpractices/status/#concept)
+
 # gcspdf2mdapi
 
 An API that converts PDFs stored in Google Cloud Storage to Markdown format using OCR or direct text extraction.
