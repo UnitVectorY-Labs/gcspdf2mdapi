@@ -1,6 +1,9 @@
 # Use the official Python image
 FROM python:3.14
 
+# Build argument for version injection
+ARG VERSION=dev
+
 # Install Tesseract-OCR (required for pytesseract)
 RUN apt-get update && apt-get install -y tesseract-ocr
 
