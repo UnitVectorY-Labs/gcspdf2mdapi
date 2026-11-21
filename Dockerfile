@@ -1,5 +1,5 @@
 # Use the official Python image
-FROM python:3.14
+FROM python:3.15
 
 # Build argument for version injection
 ARG VERSION=dev
